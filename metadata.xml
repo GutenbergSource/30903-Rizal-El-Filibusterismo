@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rdf:RDF xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+         xmlns:dc="http://purl.org/dc/elements/1.1/">
+   <rdf:Description>
+      <dc:title>El Filibusterismo</dc:title>
+      <dc:creator>José Rizal (1861–1896)</dc:creator>
+      <dc:publisher>Project Gutenberg, Urbana, Illinois, USA., 2010-01-09</dc:publisher>
+      <dc:date>2010-01-09</dc:date>
+      <dc:rights>This eBook is for the use of anyone anywhere at no cost and with almost no restrictions whatsoever. You may copy it, give it away or re-use it under the terms of the Project Gutenberg License included with this eBook or online at www.gutenberg.org.
+This eBook is produced by Jeroen Hellingman and the Online Distributed Proofreading Team at www.pgdp.net from scans of a facsimile of the original 1891 first edition.
+Several scans of other editions of this work are also available on-line.
+
+1891 Edition
+    1900 Edition
+    1908 Edition
+An English translation is available in Project Gutenberg under the title The Reign of Greed.
+</dc:rights>
+      <dc:subject>Philippine fiction (Spanish)</dc:subject>
+      <dc:subject>Nationalists -- Philippines -- Fiction</dc:subject>
+      <dc:subject>Philippines -- History -- Fiction</dc:subject>
+      <dc:identifier>pg:30903</dc:identifier>
+   </rdf:Description>
+</rdf:RDF>
